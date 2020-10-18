@@ -5,7 +5,7 @@ Participando pela primeira vez da semana Next Level Week da @Rocketseat.
 - Front-end e Back-end
 <br><hr>
   Usando HTML, CSS e Javascript.
-  
+<hr>
   Acelerando sua evolução.<br>
   
   Olhando as oportunidades. <br>

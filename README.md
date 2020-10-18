@@ -1,2 +1,6 @@
 # NLW-3
-Next Level Week Discovery #03
+
+Participando pela primeira vez da semana Next Week Level da Rocketseat.
+
+- Front-end e Back-end
+  Usando HTML, CSS e Javascript.
